@@ -1,0 +1,16 @@
+customer_id,customer_name,city,country,signup_date
+C001,John Smith,Dublin,Ireland,2024-01-10
+C002,Sarah Kelly,Cork,Ireland,2024-02-15
+C003,David Brown,Galway,Ireland,2024-03-20
+C004,Emma Wilson,Limerick,Ireland,2024-04-05
+C005,Michael Murphy,Dublin,Ireland,2024-05-12
+C006,Sophie Martin,Cork,Ireland,2024-06-18
+C007,Daniel Johnson,Waterford,Ireland,2024-07-22
+C008,Olivia Davis,Dublin,Ireland,2024-08-09
+C009,James Taylor,Galway,Ireland,2024-09-14
+C010,Ava Anderson,Limerick,Ireland,2024-10-03
+C011,William Thomas,Dublin,Ireland,2024-11-17
+C012,Emily Moore,Cork,Ireland,2024-12-01
+C013,Noah Jackson,Waterford,Ireland,2025-01-08
+C014,Isabella White,Dublin,Ireland,2025-02-11
+C015,Oliver Harris,Galway,Ireland,2025-03-19
