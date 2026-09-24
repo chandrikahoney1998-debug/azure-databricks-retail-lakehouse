@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,900
+P002,Wireless Mouse,Accessories,25
+P003,Mechanical Keyboard,Accessories,75
+P004,Monitor,Electronics,300
+P005,USB-C Cable,Accessories,15
+P006,Office Chair,Furniture,180
+P007,Desk,Furniture,250
+P008,Headphones,Electronics,120
+P009,Webcam,Electronics,85
+P010,Desk Lamp,Furniture,45
+P011,External SSD,Storage,150
+P012,Tablet,Electronics,450
+P013,Printer,Office Equipment,220
+P014,Notebook,Stationery,10
+P015,Backpack,Accessories,60
