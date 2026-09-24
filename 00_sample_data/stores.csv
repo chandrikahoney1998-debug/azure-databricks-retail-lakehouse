@@ -1,0 +1,9 @@
+store_id,store_name,city,region
+S001,Dublin City Store,Dublin,Leinster
+S002,Cork Central Store,Cork,Munster
+S003,Galway Retail Store,Galway,Connacht
+S004,Limerick Store,Limerick,Munster
+S005,Waterford Store,Waterford,Leinster
+S006,Dublin North Store,Dublin,Leinster
+S007,Cork South Store,Cork,Munster
+S008,Galway West Store,Galway,Connacht
